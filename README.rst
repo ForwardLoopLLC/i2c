@@ -1,5 +1,5 @@
-I:superscript:`2`C Drivers
+I2C Drivers
 ==========================
 Currently Supported
 -------------------
-- Linux (via `libi2cdev <https://packages.debian.org/jessie/libi2c-dev>`_)
+- Linux (via `libi2c-dev <https://packages.debian.org/jessie/libi2c-dev>`_)
