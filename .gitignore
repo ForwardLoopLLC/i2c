@@ -1,0 +1,6 @@
+**/.*.swp
+**/*.pyc
+floop.json
+floop.log
+docs/build/
+docs/xml/
