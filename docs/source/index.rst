@@ -61,5 +61,5 @@ API Documentation
 :doc:`cpp/api`
     Driver interface for I2C 
 
-`Source Code <https://github.com/ForwardLoopLLc/amg8833>`_
+`Source Code <https://github.com/ForwardLoopLLc/i2c>`_
     Our MIT license lets you use, change, and sell the drivers for free
